@@ -9,14 +9,13 @@
 5. created user 'grader' with sudo permissions. Private key attached in submission comments.
 6. Timezone configured to UTC.
 7. Postgres sql used as the backing the database. Remote connections are disabled by default.
-8. [pending] setup git
+8. Setup git. Repo https://github.com/satyajeet-bhide/FullStackNano is cloned at /var/www/FLASKAPPS/FullStackNano. The application is deployed out of this location via mod_wsi and apache.
 9. Apache mod_wsgi setup to serve 'catalog' application.
 10. A summary of software you installed and configuration changes made.
 	1. finger
 	2. Flask
 	3. python modules: requests sqlalchemy sqlalchemy-utils httplib2 oauth2client
 	4. Postgres sql
-11. A list of any third-party resources you made use of to complete this project.
 
 
 **Instructions to run the program**
