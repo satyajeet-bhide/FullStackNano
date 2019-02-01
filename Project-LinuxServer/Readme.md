@@ -16,7 +16,9 @@
 	2. Flask
 	3. python modules: requests sqlalchemy sqlalchemy-utils httplib2 oauth2client
 	4. Postgres sql
-
+11. 3rd party resources used
+    'https://www.bogotobogo.com/python/Flask/Python_Flask_HelloWorld_App_with_Apache_WSGI_Ubuntu14.php' : Reference on setting up wsgi conf file.
+    
 
 **Instructions to run the program**
 1. Set browser to 'http://http://54.213.80.45.xip.io/' to visit the Item Catalog application hosted on the server. 
